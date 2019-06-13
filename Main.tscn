@@ -1,0 +1,11 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://BottomUI.tscn" type="PackedScene" id=1]
+
+[node name="Main" type="Node2D"]
+
+[node name="BottomUI" parent="." instance=ExtResource( 1 )]
+margin_left = 232.743
+margin_top = 731.171
+margin_right = 232.743
+margin_bottom = 731.171
