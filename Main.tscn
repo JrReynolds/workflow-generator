@@ -5,7 +5,7 @@
 [node name="Main" type="Node2D"]
 
 [node name="BottomUI" parent="." instance=ExtResource( 1 )]
-margin_left = 232.743
-margin_top = 731.171
-margin_right = 232.743
-margin_bottom = 731.171
+margin_left = -955.0
+margin_top = 731.0
+margin_right = 232.0
+margin_bottom = 731.0
